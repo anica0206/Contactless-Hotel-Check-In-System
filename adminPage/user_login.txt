@@ -1,0 +1,6 @@
+[2023-05-26 16:59:15] Email: admin@test.com | Password: admin
+[2023-05-26 22:17:46] Email: admin@test.com | Password: admin
+[2023-05-26 22:20:54] Email: admin@test.com | Password: admin
+[2023-05-27 13:32:58] Email: admin@test.com | Password: admin
+[2023-05-27 14:46:18] Email: admin@test.com | Password: admin
+[2023-05-27 16:00:47] Email: admin@test.com | Password: admin

@@ -1,0 +1,356 @@
+body
+{
+    background: #B0E0E6;
+    background-image: url("cream.jpg");
+    background-size: cover;
+}
+
+form 
+{
+    width: 500px; 
+    border: 2px solid #ccc;
+    padding: 30px; 
+    background: #fff;
+    border-radius: 15px;
+}
+
+.buttons
+{
+    text-align: center;
+    display: flex; 
+    flex-direction: column; 
+    height: 100%; 
+    justify-content: space-around;
+    width: 20%;
+}
+
+h1.login-title 
+{
+    color: #079df4;
+    margin: 0px auto 25px;
+    font-size: 25px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.small-container 
+{
+    width: 500px; 
+    margin: 50px auto; 
+    margin-top:7%;
+    font-size: 15px; 
+    margin-bottom: 15px; 
+    background: #FFFFFF; 
+    box-shadow: 0px 2px rgba(0,0,0,0.3);
+    padding: 30px; 
+    border-radius: 8px;
+}
+
+.container
+{
+    width: 900px; 
+    margin: 50px auto; 
+    font-size: 60px; 
+    margin-bottom: 15px; 
+    background: #f8f8f8; 
+    box-shadow: 0px 2px 2px rgba(0,0,0,0.3);
+    padding: 30px; 
+    border-radius: 8px;
+}
+
+.header 
+{
+    text-align: center; 
+    margin: 0 0 15px; 
+    color: #FFFFFF; 
+}
+
+input[type="radio"] {
+    margin-top: -1px;
+    vertical-align: middle;
+
+}
+label 
+{
+    font-size: 18px; 
+    display: inline-block; 
+    padding: auto;
+}
+
+#text
+{
+    height: 200px; 
+    font-size: 14pt;
+}
+.smallbluebtn
+{
+    font-weight: bold; 
+    background-color: #329EAA; 
+    color: white;
+    border-radius: 8px; 
+    border: none; 
+    padding: 15px 32px;
+    text-align: center;
+}
+
+.exit 
+{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    font-weight: bold; 
+    background-color: #cd5c5c; 
+    color: white; 
+    border-radius: 8px; 
+    border: none;
+    text-align: center;
+    padding: 10px 24px; 
+}
+
+.exit:hover
+{
+    font-weight: 900;
+    background-color: #cf3e3e;
+}
+
+.subjectbtn
+{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    font-size: 20px; 
+    font-weight: bold; 
+    background-color: #329EAA; 
+    color: white; 
+    border-radius: 8px; 
+    border: none; 
+    width: 75%;
+    padding: 14px 28px; 
+    text-align: center;
+}
+
+.subjectbtn:hover
+{
+    background-color: rgb(9, 111, 245);
+
+}
+
+h1.login-title 
+{
+    color: #079df4;
+    margin: 0px auto 25px;
+    font-size: 25px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.login-input 
+{
+    font-size: 15px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 25px;
+    height: 25px;
+    width: calc(100% - 23px);
+}
+
+.login-input:focus
+{
+    border-color:#13c5dd;
+    outline: none;
+}
+
+.login-button
+{
+    color: #fff;
+    background: #55a1ff;
+    border: 0;
+    outline: 0;
+    width: 100%;
+    height: 50px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.link 
+{
+    color: #0aecbb;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+button
+{
+    background-color: #329EAA;
+    border: none;
+    color: white; 
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block; 
+    font-size: 16px; 
+    cursor: pointer;
+}
+
+.blueButton
+{
+    background-color: #329EAA;
+    border: none;
+    color: white; 
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block; 
+    font-size: 16px; 
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+input{
+    margin: auto; 
+    display: block;
+}
+.blueButton:hover
+{
+    background-color: rgb(9, 111, 245);
+}
+
+.box {
+    display:flex;
+    align-items:baseli
+}
+
+.sortBtn
+{
+    display: inline-block;
+    margin-left:5%;
+    margin-right:5%;
+    font-weight: bold; 
+    background-color: rgb(9, 155, 65);
+    color: white; 
+    border-radius: 8px; 
+    border: none; 
+    padding: 5px 15px 8px 15px; 
+    text-align: center;
+}
+
+.sortBtn:hover
+{
+    background-color: rgb(6, 99, 41);
+}
+
+.sortBtn2
+{
+    display: inline-block;
+    font-weight: bold; 
+    background-color: rgb(9, 155, 65);
+    color: white; 
+    border-radius: 8px; 
+    border: none; 
+    padding: 5px 15px 8px 15px; 
+    text-align: center;
+}
+
+.submitBtn
+{
+    display: inline-block;
+    font-weight: bold; 
+    background-color: rgb(9, 155, 65);
+    color: white; 
+    border-radius: 8px; 
+    border: none; 
+    padding: 5px 15px 8px 15px; 
+    text-align: center;
+}
+
+.submitBtn:hover
+{
+    background-color: red !important;
+}
+
+.boxShadow {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.back
+{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    float:center; 
+    font-weight: bold; 
+    background-color: #329EAA;
+    color: white; 
+    border-radius: 8px; 
+    border: none; 
+    padding: 5px 15px 8px 15px; 
+    text-align: center;
+}
+
+.back:hover
+{
+    background-color:rgb(9, 111, 245);
+}
+
+.navigationBtn
+{
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    cursor: pointer;
+    white-space: nowrap;
+    width: auto;
+    border: none;
+    outline: 0;
+    font-weight: bold;
+    color: #fff !important;
+    background-color: #009688 !important;
+    border-radius: 5px;
+}
+
+.navigationBtn:hover
+{
+    background-color: rgb(9, 111, 245) !important;
+}
+
+.table-container {
+    height: 10em;
+}
+table {
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+    width: 100%;
+    
+}
+
+table thead {
+    /* head takes the height it requires, 
+    and it's not scaled when table is resized */
+    flex: 1 1 auto;
+    width: 94.9%;
+}
+
+table tbody {
+    /* body takes all the remaining available space */
+    flex: 1 1 auto;
+    display: block;
+    overflow-y: scroll;
+}
+
+table tbody tr {
+    width: 100%;
+}
+
+table thead, table tbody tr {
+    display: table;
+    table-layout: fixed;
+}
+
+

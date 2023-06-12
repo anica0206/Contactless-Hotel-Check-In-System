@@ -1,0 +1,5 @@
+Email: hello@test.com, Password: heklaoufbouwf, Name: hello, Date of Birth: 2023-05-26, Profile: Administrator, Status: Active
+Email: aylchia001@gmail.com, Password: anica123, Name: anon, Date of Birth: 2023-05-26, Profile: Administrator, Status: Active
+Email: hoteloperator@gmail.com, Password: hoteloperator, Name: Hotel Operator, Date of Birth: 2023-05-27, Profile: Hotel Operator, Status: Active
+Email: admin@user.com, Password: admin123, Name: Admin, Date of Birth: 2023-05-27, Profile: Administrator, Status: Active
+Email: hoteloperator@test.com, Password: hoteloperator, Name: Hotel Operator, Date of Birth: 2023-05-26, Profile: Hotel Operator, Status: Active
