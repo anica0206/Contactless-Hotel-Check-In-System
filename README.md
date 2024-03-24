@@ -25,7 +25,7 @@
 
 # OverView_of_The_Project
 
-- Project Title: Contactless-Hotel-Check-In-System
+- Project Title: CheckInn (Contactless-Hotel-Check-In-System)
 - Project Manager: Chua Jia Hong
 - Project Team Member:<br>[Chae Youngsuh](https://github.com/anica0206), Angela Chia Ying Lin, Belinda Peh Siow Yi, Benishia Angelin
 
