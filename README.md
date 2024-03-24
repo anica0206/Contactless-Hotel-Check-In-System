@@ -45,14 +45,11 @@
 
 # Planning and Design
 
-* Technical Manual
-⌞ [Technical_Manual.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Technical%20Manual.pdf)
+* Technical Manual: [Technical_Manual.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Technical%20Manual.pdf)
 
-* User Manual 
-⌞ [User_Manual.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/User%20Manual.pdf)
+* User Manual: [User_Manual.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/User%20Manual.pdf)
 
-* Progress Report
-⌞ [Progress_Report.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Progress%20Report.pdf)
+* Progress Report: [Progress_Report.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Progress%20Report.pdf)
 
 <br>
 <br>
