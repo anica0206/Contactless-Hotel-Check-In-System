@@ -38,8 +38,8 @@
 
 # Project_Schedule
 
-* WBS
-<img src="https://github.com/hykim-king/PREFECT/blob/main/doc/WBS.png" height="200"/>  
+* WBS: [Gantt_Chart.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Gantt%20chart.pdf)
+<img src="https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Gantt%20chart.png" height="800" width="1000"/>  
 <br>
 <br>
 
