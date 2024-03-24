@@ -10,9 +10,9 @@
 
 >[OverView of The Project](#OverView_of_The_Project)\
 ><br>
->[Project Schedule](#Project Schedule)\
+>[Project Schedule](#Project_Schedule)\
 ><br>
->[Planning and Design](#Planning and Design)\
+>[Planning and Design](#Planning_and_Design)\
 ><br>
 >[Testing](#Testing)\
 ><br>
@@ -62,6 +62,9 @@
 * Customer: [Customer.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Test%20Case%20-%20Customer.pdf)
 
 * Systen Admin: [Systen_Admin.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Test%20Case%20-%20System%20Admin.pdf)
+
+<br>
+<br>
 
 # Demo_Video
 
