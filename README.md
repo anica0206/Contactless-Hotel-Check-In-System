@@ -27,7 +27,7 @@
 
 - Project Title: Contactless-Hotel-Check-In-System
 - Project Manager: Chua Jia Hong
-- Project Team Member: [Chae Youngsuh](https://github.com/anica0206), Angela Chia Ying Lin, Belinda Peh Siow Yi, Benishia Angelin
+- Project Team Member:<br>[Chae Youngsuh](https://github.com/anica0206), Angela Chia Ying Lin, Belinda Peh Siow Yi, Benishia Angelin
 
 - Peer Assessment: [Peer_Assessment.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Peer%20Assessment.pdf)
 - Final Presentation: [Final_Presentation.pptx](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Final%20Presentation.pptx)
