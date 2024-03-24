@@ -68,8 +68,7 @@
 
 # Demo_Video
 
-* 메인
-<img src="https://github.com/hykim-king/PREFECT/blob/main/doc/main.gif"  width="800" height="400"/>
+<img src="https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/demo.gif"  width="800" height="400"/>
 
 
 
