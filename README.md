@@ -1,4 +1,7 @@
-<img src="https://github.com/anica0206/Contactless-Hotel-Check-In-System/doc/uow_logo.png"  width="800" height="400"/>
+<div>
+  <img src="https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/uow_logo.png"  width="400" height="450"/>
+  <img src="https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/sim_logo.jpg"  width="400" height="450"/>
+</div>
                                             
 <br>
 
@@ -20,12 +23,12 @@
 
 # 프로젝트 개요
 
-- 팀장 : [채영서](https://github.com/anica0206)
-- 팀원 : [장진규](https://github.com/jingyu0454), [고송민](https://github.com/go-song-min), [김진수](https://github.com/Lavi1208), [김태훈](https://github.com/diamatemarcus), [송레오](https://github.com/thdfpdh), [이한나](https://github.com/AnNile25), [정민호](https://github.com/mn8467)
+- Project Manager : Chua Jia Hong
+- Project Team Member : [Chae Youngsuh](https://github.com/anica0206), Angela Chia Ying Lin, Belinda Peh Siow Yi, Benishia Angelin
 
-- 기획서: [Prefect_기획서.pdf](https://github.com/hykim-king/PREFECT/blob/main/doc/Prefect_기획서.pdf)
-- 최종보고서 발표 자료(PPT):<br>
-  https://docs.google.com/presentation/d/1gLP0-LXGme8pvRS8vQqSWH-acYo-zkG9/edit?usp=drive_link
+- Peer Assessment: [Peer_Assessment.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Peer%20Assessment.pdf)
+- Final Presentation: [Final_Presentation.pptx](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Final%20Presentation.pptx)
+
 <br>
 <br>
 
