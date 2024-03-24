@@ -1,4 +1,4 @@
-<img src="https://github.com/hykim-king/PREFECT/blob/main/doc/uow_logo.png"  width="800" height="400"/>
+<img src="https://github.com/anica0206/Contactless-Hotel-Check-In-System/doc/uow_logo.png"  width="800" height="400"/>
                                             
 <br>
 
