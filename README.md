@@ -5,9 +5,13 @@
                                             
 <br>
 
+# Research-Conference-Management-System
+This is a group project done as part of our final year project.
+
 # Contents
 
-
+>[Project Specification](#Project_Specification)\
+><br>
 >[OverView of The Project](#OverView_of_The_Project)\
 ><br>
 >[Project Schedule](#Project_Schedule)\
@@ -23,12 +27,19 @@
 <br>
 <br>
 
+# Project_Specification
+Proposed Title: Multi-factor transaction authorisation based on QR code
+
+Description: <br>
+The project aims to design and develop a secure transaction authorisation protocol based on QR code. To authorise an online transaction, the user will need to use his/her biometric information and a mobile device with a QR code scanner to complete the transaction. The protocol can be implemented via a web interface. The protocol will be executed between a web interface and an app on a mobile device (with QR code scanning function & biometric authentication function). Students should have background in web programming and mobile app development. Background in cryptography/security will be helpful. 
+
 # OverView_of_The_Project
 
 - Project Title: CheckInn (Contactless-Hotel-Check-In-System)
 - Project Manager: Chua Jia Hong
-- Project Team Member:<br>[Chae Youngsuh](https://github.com/anica0206), Angela Chia Ying Lin, Belinda Peh Siow Yi, Benishia Angelin
+- Project Team Member:<br>[Chae Youngsuh](https://github.com/anica0206), Angela Chia Ying Lin, Belinda Peh Siow Yi, Benishia Angelin <br>
 
+- Project Requirement Documentation: [Project_Requirement.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Project%20Requirement%20Documentation.pdf)
 - Peer Assessment: [Peer_Assessment.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Peer%20Assessment.pdf)
 - Final Presentation: [Final_Presentation.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Final%20Presentation.pdf)
 
@@ -68,7 +79,7 @@
 
 # Demo_Video
 
-<img src="https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/demo.gif"  width="800" height="400"/>
+<img src="https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Demo%20Video.gif"  width="800" height="400"/>
 
 
 
