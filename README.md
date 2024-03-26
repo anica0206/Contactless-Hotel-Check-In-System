@@ -31,17 +31,17 @@ The project aims to design and develop a secure transaction authorisation protoc
 
 <b>Project Title:</b> CheckInn (Contactless-Hotel-Check-In-System) <br>
 <b>Project Manager:</b> Chua Jia Hong <br>
-<b>Project Team Member:</b> [Chae Youngsuh](https://github.com/anica0206), Angela Chia Ying Lin, Belinda Peh Siow Yi, Benishia Angelin <br><br>
+<b>Project Team Member:</b> [Chae Youngsuh](https://github.com/anica0206), Angela Chia Ying Lin, Belinda Peh Siow Yi, Benishia Angelin <br>
 
-<b>Project Requirement Documentation:</b> [Project_Requirement.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Project%20Requirement%20Documentation.pdf) <br>
-<b>Peer Assessment:</b> [Peer_Assessment.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Peer%20Assessment.pdf) <br>
-<b>Final Presentation:</b> [Final_Presentation.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Final%20Presentation.pdf) <br>
+- Project Requirement Documentation: [Project_Requirement.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Project%20Requirement%20Documentation.pdf) <br>
+- Peer Assessment: [Peer_Assessment.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Peer%20Assessment.pdf) <br>
+- Final Presentation: [Final_Presentation.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Final%20Presentation.pdf)
 
 <br>
 
 # Project_Schedule
 
-WBS: [Gantt_Chart.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Gantt%20chart.xlsx)
+- WBS: [Gantt_Chart.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Gantt%20chart.xlsx)
 <img src="https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Gantt%20chart.png" height="800" width="1000"/>  
 
 
