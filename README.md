@@ -30,7 +30,7 @@
 - Project Team Member:<br>[Chae Youngsuh](https://github.com/anica0206), Angela Chia Ying Lin, Belinda Peh Siow Yi, Benishia Angelin
 
 - Peer Assessment: [Peer_Assessment.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Peer%20Assessment.pdf)
-- Final Presentation: [Final_Presentation.pptx](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Final%20Presentation.pptx)
+- Final Presentation: [Final_Presentation.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Final%20Presentation.pdf)
 
 <br>
 <br>
@@ -38,7 +38,7 @@
 
 # Project_Schedule
 
-* WBS: [Gantt_Chart.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Gantt%20chart.pdf)
+* WBS: [Gantt_Chart.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Gantt%20chart.xlsx)
 <img src="https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Gantt%20chart.png" height="800" width="1000"/>  
 <br>
 <br>
@@ -57,7 +57,7 @@
 
 # Testing
 
-* Hotel Operator: [Hotel_Operato.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Test%20Case%20-%20Hotel%20Operator.pdf)
+* Hotel Operator: [Hotel_Operator.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Test%20Case%20-%20Hotel%20Operator.pdf)
 
 * Customer: [Customer.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Test%20Case%20-%20Customer.pdf)
 
