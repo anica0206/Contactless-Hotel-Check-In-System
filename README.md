@@ -8,6 +8,9 @@
 # Research-Conference-Management-System
 This is a group project done as part of our final year project.
 
+<br>
+<br>
+
 # Contents
 
 >[Project Specification](#Project_Specification)\
@@ -33,6 +36,9 @@ Proposed Title: Multi-factor transaction authorisation based on QR code
 Description: <br>
 The project aims to design and develop a secure transaction authorisation protocol based on QR code. To authorise an online transaction, the user will need to use his/her biometric information and a mobile device with a QR code scanner to complete the transaction. The protocol can be implemented via a web interface. The protocol will be executed between a web interface and an app on a mobile device (with QR code scanning function & biometric authentication function). Students should have background in web programming and mobile app development. Background in cryptography/security will be helpful. 
 
+<br>
+<br>
+
 # OverView_of_The_Project
 
 - Project Title: CheckInn (Contactless-Hotel-Check-In-System)
@@ -51,8 +57,6 @@ The project aims to design and develop a secure transaction authorisation protoc
 
 * WBS: [Gantt_Chart.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Gantt%20chart.xlsx)
 <img src="https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Gantt%20chart.png" height="800" width="1000"/>  
-<br>
-<br>
 
 
 # Planning_and_Design
