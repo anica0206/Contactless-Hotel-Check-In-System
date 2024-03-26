@@ -27,7 +27,7 @@ The project aims to design and develop a secure transaction authorisation protoc
 
 <br>
 
-# Overview_of_The_Project
+# OverView_of_The_Project
 
 <b>Project Title:</b> CheckInn (Contactless-Hotel-Check-In-System) <br>
 <b>Project Manager:</b> Chua Jia Hong <br>
