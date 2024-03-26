@@ -10,12 +10,12 @@ This is a group project done as part of our final year project.
 
 # Contents
 
->[1. Project Specification](#Project_Specification)\
->[2. OverView of The Project](#OverView_of_The_Project)\
->[3. Project Schedule](#Project_Schedule)\
->[4. Planning and Design](#Planning_and_Design)\
->[5. Testing](#Testing)\
->[6. Demo Video of Final Product](#Demo_Video)
+>1. [Project Specification](#Project_Specification)\
+>2. [OverView of The Project](#OverView_of_The_Project)\
+>3. [Project Schedule](#Project_Schedule)\
+>4. [Planning and Design](#Planning_and_Design)\
+>5. [Testing](#Testing)\
+>6. [Demo Video of Final Product](#Demo_Video)
 
 <br>
 
