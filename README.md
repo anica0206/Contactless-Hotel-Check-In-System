@@ -74,7 +74,7 @@ The project aims to design and develop a secure transaction authorisation protoc
 <img src= "https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/mobile%20application%20(for%20customer).gif" width="800" height="400"/>
 
 - Hotel Operator (Website)
-<img src= "https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/mobile%20application%20(for%20customer).gif" width="800" height="400"/>
+<img src= "https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/hotel%20operator.gif" width="800" height="400"/>
 
 - Hotel Operator (After the customer made the booking)
 <img src= "https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/hotel%20operator%20(with%20updated%20customer%20details).gif" width="800" height="400"/>
