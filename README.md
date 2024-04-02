@@ -41,12 +41,22 @@ The project aims to design and develop a secure transaction authorisation protoc
 <b>Project Title:</b> CheckInn (Contactless-Hotel-Check-In-System) <br>
 <b>Project Manager:</b> Chua Jia Hong <br>
 <b>Project Team Member:</b> [Chae Youngsuh](https://github.com/anica0206), Angela Chia Ying Lin, Belinda Peh Siow Yi, Benishia Angelin <br>
+<b>Project Period:</b> 12-01-2023 ~ 27-05-2023 <br>
 
-- Project Requirement Documentation: [Project_Requirement.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Project%20Requirement%20Documentation.pdf) <br>
-- Peer Assessment: [Peer_Assessment.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Peer%20Assessment.pdf) <br>
-- Final Presentation: [Final_Presentation.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Final%20Presentation.pdf)
+Project Requirement Documentation: [Project_Requirement.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Project%20Requirement%20Documentation.pdf) <br>
+Peer Assessment: [Peer_Assessment.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Peer%20Assessment.pdf) <br>
+Final Presentation: [Final_Presentation.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Final%20Presentation.pdf)
 
 <br>
+
+<b>프로젝트 제목:</b> CheckInn (비접촉식 호텔 체크인 시스템) <br>
+<b>프로젝트 매니저:</b> Chua Jia Hong <br>
+<b>프로젝트 팀원:</b> [채영서](https://github.com/anica0206), Angela Chia Ying Lin, Belinda Peh Siow Yi, Benishia Angelin <br>
+<b>프로젝트 기간:</b> 2023-01-12 ~ 2023-05-27 <br>
+
+프로젝트 요구 사항 문서: [Project_Requirement.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Project%20Requirement%20Documentation.pdf) <br>
+팀원 역할 분담: [Peer_Assessment.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Peer%20Assessment.pdf) <br>
+최종 보고서: [Final_Presentation.pdf](https://github.com/anica0206/Contactless-Hotel-Check-In-System/blob/main/doc/Final%20Presentation.pdf)
 
 # Project_Schedule
 
